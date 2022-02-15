@@ -1,0 +1,3 @@
+﻿  alluda.cpp
+C:\Users\paart\source\repos\alluda\alluda.cpp(91): warning C4715: lopata: значение возвращается не при всех путях выполнения
+  alluda.vcxproj -> C:\Users\paart\source\repos\alluda\Debug\alluda.exe
